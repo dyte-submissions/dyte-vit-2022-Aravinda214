@@ -81,8 +81,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-As part of the SDK tooling, given a list of Github repositories, assuming all of them are node js projects with a package.json and package-lock.json in the root, and the name and version of a dependency, to give the current version of that dependency and tell if the version is greater than or equal to the version specified or not. 
-
+As part of the SDK tooling, assuming all the repositories are node js projects with a package.json and package-lockjson. These repositories are accessed using get requests and the data is stored in json format, and the value of dependency is verified to give the current version of that dependency and inform if the version is greater than or equal to the version specified or not.
 
  <h2> Console Output </h2>
   
@@ -130,6 +129,10 @@ As part of the SDK tooling, given a list of Github repositories, assuming all of
    ```sh
    pip install requests
    ```
+6. Install PyGithub
+```sh
+   pip install PyGithub
+```
 
 
 
@@ -141,7 +144,7 @@ As part of the SDK tooling, given a list of Github repositories, assuming all of
 ## How to run
 Run the command in the terminal/console
 ```sh
-python dyte-git.py -i input.csv axios@0.23.0
+python dyte-cli.py -i input.csv axios@0.23.0
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
