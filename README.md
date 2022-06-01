@@ -84,11 +84,13 @@
 As part of the SDK tooling, assuming all the repositories are node js projects with a package.json and package-lockjson. These repositories are accessed using get requests and the data is stored in json format, and the value of dependency is verified to give the current version of that dependency and inform if the version is greater than or equal to the version specified or not.
 
  <h2> Console Output </h2>
-  
-![cli_output](https://user-images.githubusercontent.com/68860525/171480837-ca005dee-35d2-405e-9196-80a8b5498f52.jpeg)
+ 
+![cli_output (2)](https://user-images.githubusercontent.com/68860525/171513845-bd8f7c0a-833e-482d-b40a-7d0482eb0c37.jpeg)
+
+
 <h2> Output is saved in csv format </h2>
   
-![output_csv](https://user-images.githubusercontent.com/68860525/171480914-eb3fd923-f972-40f6-a457-951180cb52dc.jpeg)
+![Output](https://user-images.githubusercontent.com/68860525/171513854-398dc001-a9d4-4080-874e-1ee816eef4b0.jpeg)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -144,7 +146,7 @@ As part of the SDK tooling, assuming all the repositories are node js projects 
 ## How to run
 Run the command in the terminal/console
 ```sh
-python dyte-cli.py -i input.csv axios@0.23.0
+python dyte-cli.py -i input.csv axios@0.24.0
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
