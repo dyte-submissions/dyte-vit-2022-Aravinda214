@@ -187,7 +187,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 Name: B. Aravinda </br>
-Project Link:[https://github.com/dyte-submissions/dyte-vit-2022-Aravinda214](https://github.com/dyte-submissions/dyte-vit-2022-Aravinda214)
+Project Link:[https://github.com/dyte-submissions/dyte-vit-2022-Aravinda214](https://github.com/dyte-submissions/dyte-vit-2022-Aravinda214) </br>
 Email: [aravinda.b2019@vitstudent.ac.in](aravinda.b2019@vitstudent.ac.in),[aravinda992@gmail.com](aravinda992@gmail.com)</br>
 Github Link: [Aravinda214](https://github.com/Aravinda214) </br> 
 LinkedIn: [https://linkedin.com/in/baravinda/](https://linkedin.com/in/baravinda/) </br>
